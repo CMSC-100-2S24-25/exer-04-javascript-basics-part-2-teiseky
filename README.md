@@ -1,1 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/TP0ZkiLb)
+○ Sebastian Andrei P. Merdegia
+○ 2023-09278
+○ This JavaScript program validates user account data, generates a unique ID, and stores user information in a text file.  
